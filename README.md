@@ -2,7 +2,7 @@
 👀 I’m interested in learning programming and working on web development projects.  
 🌱 I’m currently learning Node.js and JavaScript.  
 💞️ I’m looking to collaborate on backend development and AI-related projects.  
-📫 How to reach me: You can reach me via email at info@faragooya.com  
+📫 How to reach me: You can reach me via email at info@ghalamstore.com  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy solving programming challenges and building innovative tech solutions.
 <!---
