@@ -1,11 +1,7 @@
-👋 Hi, I’m @ahmadmohammadi from Iran-Ardabil  
-👀 I’m interested in learning programming and working on web development projects.  
-🌱 I’m currently learning Node.js and JavaScript.  
-💞️ I’m looking to collaborate on backend development and AI-related projects.  
-📫 How to reach me: You can reach me via email at info@ahmadmohammadi.com  
+👋 Hi, I’m Ahmad Mohammadi from Ardabil, Iran.  
+👀 I’m passionate about programming and web development.  
+🌱 Currently learning Node.js and JavaScript in depth.  
+💬 I’m open to collaborating on backend development and AI-related projects.  
+📫 How to reach me: info@ahmadmohammadi.com  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy solving programming challenges and building innovative tech solutions.
-<!---
-ahmadmohammadi80/ahmadmohammadi80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I enjoy solving coding challenges and building innovative tech solutions.
